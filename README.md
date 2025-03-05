@@ -1,1 +1,1 @@
-# hello-world-date-time
+https://snack.expo.dev/@mahadshah571/hello-word
